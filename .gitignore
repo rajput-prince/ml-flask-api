@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Flask
+instance/
+uploads/
+.env
+
+# Dependencies
+venv/
+*.egg-info
+
+# Docker
+*.dockerfile
+*.dockerignore
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+
+# Logs
+*.log
