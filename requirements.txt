@@ -4,4 +4,4 @@ torch==2.4.1
 torchvision== 0.19.1
 ultralytics==8.2.29
 Pillow==10.3.0
-
+Werkzeug==3.0.2
